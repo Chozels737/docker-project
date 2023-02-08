@@ -1,20 +1,24 @@
 <?php
 
-$spongebob_main_characters = [
-    "SpongeBob" => [
-        "age" => 12,
-        "job" => "fry cook"
+$best_soccer_players = [
+    "goalkeeper" => [
+        "Manuel Neuer" => ["Country" => "Germany", "Years Active" => "2006-present"],
+        "Jan Oblak" => ["Country" => "Slovenia", "Years Active" => "2010-present"],
+        "David de Gea" => ["Country" => "Spain", "Years Active" => "2008-present"],
     ],
-    "Patrick" => [
-        "age" => 12,
-        "job" => "unemployed"
+    "defenders" => [
+        "Sergio Ramos" => ["Country" => "Spain", "Years Active" => "2002-present"],
+        "Virgil van Dijk" => ["Country" => "Netherlands", "Years Active" => "2011-present"],
+        "Marcelo" => ["Country" => "Brazil", "Years Active" => "2005-present"],
     ],
-    "Sandy" => [
-        "age" => 25,
-        "job" => "scientist"
+    "midfielders" => [
+        "Luka Modric" => ["Country" => "Croatia", "Years Active" => "2003-present"],
+        "Kevin De Bruyne" => ["Country" => "Belgium", "Years Active" => "2008-present"],
+        "N'Golo Kante" => ["Country" => "France", "Years Active" => "2011-present"]
     ],
-    "Squidward" => [
-        "age" => 35,
-        "job" => "cashier"
+    "forwards" => [
+        "Cristiano Ronaldo" => ["Country" => "Portugal", "Years Active" => "2002-present"],
+        "Lionel Messi" => ["Country" => "Argentina", "Years Active" => "2004-present"],
+        "Robert Lewandowski" => ["Country" => "Poland", "Years Active" => "2008-present"]
     ]
 ];
