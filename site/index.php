@@ -1,10 +1,7 @@
 <?php
 
-$a = [1,77,88,99];
+$bonusgetallen = [5, 16, 19, 32, 56, 99];
+$mijnGegevens = ["bart", 78, true, 3.4];
 
-echo $a[
-    0 => 1
-    1 => 77
-    2 => 88
-    3 => 99
-];
+echo $bonusgetallen[4];
+echo  $mijnGegevens[2];
