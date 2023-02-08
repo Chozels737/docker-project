@@ -1,16 +1,10 @@
 <?php
 
+$Nummer1 = -10;
+$nummer2 = -8;
 
-$eenStandaardTekst = "hallo wereld";
-
-
-$eenStandaardTekst = "beste mensen hoe gaat het";
-
-
-echo $eenStandaardTekst;
-
-$eenStandaardTekst = 34;
-
-$eenStandaardTekst = true;
-
-$eenStandaardTekst = [];
+if ($Nummer1 < $nummer2){
+    echo '$a is smaller then $b';
+} else {
+    echo '$a is larger than $b';
+}
