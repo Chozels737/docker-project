@@ -1,10 +1,10 @@
 <?php
 
-$Nummer1 = -10;
-$nummer2 = -8;
+$a = [1,77,88,99];
 
-if ($Nummer1 < $nummer2){
-    echo '$a is smaller then $b';
-} else {
-    echo '$a is larger than $b';
-}
+echo $a[
+    0 => 1
+    1 => 77
+    2 => 88
+    3 => 99
+];
