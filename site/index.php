@@ -1,4 +1,16 @@
 <?php
 
 
-echo "i am a big fan of the simpson!";
+$eenStandaardTekst = "hallo wereld";
+
+
+$eenStandaardTekst = "beste mensen hoe gaat het";
+
+
+echo $eenStandaardTekst;
+
+$eenStandaardTekst = 34;
+
+$eenStandaardTekst = true;
+
+$eenStandaardTekst = [];
